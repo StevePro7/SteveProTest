@@ -1,1 +1,1 @@
-SteveProXNA
+SteveProXNA is the author of the README
